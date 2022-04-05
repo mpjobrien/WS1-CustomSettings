@@ -1,3 +1,6 @@
+<!-- Block Facetime & Messages using Workspace One Apps and Process Restrictions-->
+<!-- macOS 10.15+ & Inteligent Hub 21.04+ required -->
+
 <dict>
 	<key>Restrictions</key>
 	<array>
@@ -53,11 +56,11 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>Restricted Software Policy</string>
+	<string>Apps and Process Policy</string>
 	<key>PayloadIdentifier</key>
 	<string>HubSettings.93f1655a-59fb-42dc-bc31-9571275cb12b</string>
 	<key>PayloadOrganization</key>
-	<string>VMware</string>
+	<string>Kompute</string>
 	<key>PayloadType</key>
 	<string>com.vmware.hub.mac.restrictions</string>
 	<key>PayloadUUID</key>
