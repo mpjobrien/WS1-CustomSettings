@@ -58,7 +58,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Apps and Process Policy</string>
 	<key>PayloadIdentifier</key>
-	<string>HubSettings.93f1655a-59fb-42dc-bc31-9571275cb12b</string>
+	<string>com.kompute.AppProcessPolicy</string>
 	<key>PayloadOrganization</key>
 	<string>Kompute</string>
 	<key>PayloadType</key>
