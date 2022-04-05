@@ -1,0 +1,67 @@
+<dict>
+	<key>Restrictions</key>
+	<array>
+		<dict>
+			<key>Attributes</key>
+			<dict>
+				<key>cdhash</key>
+				<string>a33aedc4fc327bceb86890a52e43667d777a482d</string>
+				<key>name</key>
+				<array>
+					<string>FaceTime</string>
+				</array>
+				<key>path</key>
+				<string>/Applications/Facetime.app/Contents/MacOS/FaceTime</string>
+				<key>bundleId</key>
+				<array>
+					<string>com.apple.FaceTime</string>
+				</array>
+				<key>sha256</key>
+				<string>c409234c67c8de9dcbb46048c09086b6558e6f801eba0e4a0f6ace91644276f4</string>
+			</dict>
+			<key>Actions</key>
+			<array>
+			<integer>1</integer>
+			</array>
+			<key>Message</key>
+			<string>FaceTime is not permitted to run on this device.</string>
+		</dict>
+		<dict>
+			<key>Attributes</key>
+			<dict>
+				<key>cdhash</key>
+				<string>e9518e9bdc944a3a60c28e08afc4b49da1e44a27</string>
+				<key>name</key>
+				<array>
+					<string>Messages</string>
+				</array>
+				<key>path</key>
+				<string>/Applications/Messages.app/Contents/MacOS/Messages</string>
+				<key>bundleId</key>
+				<array>
+					<string>com.apple.MobileSMS</string>
+				</array>
+				<key>sha256</key>
+				<string>99284fcd974f2c033a723d94202d8a20426bdc6ce7fcd57ce710590be8037dcd</string>
+			</dict>
+			<key>Actions</key>
+			<array>
+			<integer>1</integer>
+			</array>
+			<key>Message</key>
+			<string>Messages is not permitted to run on this device.</string>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>Restricted Software Policy</string>
+	<key>PayloadIdentifier</key>
+	<string>HubSettings.93f1655a-59fb-42dc-bc31-9571275cb12b</string>
+	<key>PayloadOrganization</key>
+	<string>VMware</string>
+	<key>PayloadType</key>
+	<string>com.vmware.hub.mac.restrictions</string>
+	<key>PayloadUUID</key>
+	<string>1D7F0D17-369B-4766-9CA0-D2B4537657C1</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
