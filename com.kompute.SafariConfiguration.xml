@@ -1,0 +1,27 @@
+<!-- Paste directly into Custom Settings-->
+<dict>
+			<key>BlockStoragePolicy</key> <!-- Cross-site tracking -->
+    		<string>1</string>
+			<key>AutoOpenSafeDownloads</key>
+			<false/>
+			<key>DidShowWhatsNewInSafari</key>
+			<true/>
+			<key>HomePage</key>
+			<string>https://kompute.com.au</string>
+			<key>NewTabBehavior</key>
+			<integer>3</integer>
+			<key>NewWindowBehavior</key>
+			<integer>0</integer>
+			<key>PayloadDisplayName</key>
+			<string>Safari</string>
+			<key>PayloadIdentifier</key>
+			<string>com.kompute.SafariConfiguration</string>
+			<key>PayloadOrganization</key>
+			<string></string>
+			<key>PayloadType</key>
+			<string>com.apple.Safari</string>
+			<key>PayloadUUID</key>
+			<string>BE011671-B1CF-4673-B119-55CC51018978</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
